@@ -1,11 +1,41 @@
-img {
-    width:200px;
-}
-body {
-    text-align: center;
-    font-family: "Arial";
-}
 head {
     text-align: center;
     font-family: "Arial";
+}
+h1 {
+    font-size: 110px;
+    
+}
+h2 {
+    font-size: 50px;
+}
+
+
+
+body {
+    text-align: center;
+    font-family: "Helvetica";
+    color: white;
+    background-image: url(http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=74702776);
+}
+p {
+    font-size: 30px;
+}
+
+
+
+img[src="https://cdn.rawgit.com/hackclub/meta/fc4c0d220426eb53a176e656ae7700d9dcd0b2c5/logos/banner_orpheus_hand_rotated.svg"] {
+    width: 200px;
+}
+img[src="https://facebookbrand.com/wp-content/themes/fb-branding/prj-fb-branding/assets/images/fb-art.png"] {
+    width: 50px;
+    margin-top: 70px;
+}
+img[src="http://www.bseu.by/isgo/Insta.png"] {
+    width: 50px;
+    margin-top: 70px;
+}
+img[src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"] {
+    width: 50px;
+    margin-top: 70px;
 }

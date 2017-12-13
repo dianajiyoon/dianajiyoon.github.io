@@ -3,11 +3,12 @@ head {
     font-family: "Arial";
 }
 h1 {
-    font-size: 110px;
-    
+    font-size: 55px;
+    font-weight: 300;
 }
 h2 {
-    font-size: 50px;
+    font-size: 20px;
+    font-weight: 300;
 }
 
 
@@ -16,10 +17,10 @@ body {
     text-align: center;
     font-family: "Helvetica";
     color: white;
-    background-image: url(http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=74702776);
+    background-image: url(http://www.designbolts.com/wp-content/uploads/2013/02/Free-Tileable-Black-Wood-Textures-Patterns-For-3D-Mappin.jpg);
 }
 p {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 
@@ -30,10 +31,12 @@ img[src="https://cdn.rawgit.com/hackclub/meta/fc4c0d220426eb53a176e656ae7700d9dc
 img[src="https://facebookbrand.com/wp-content/themes/fb-branding/prj-fb-branding/assets/images/fb-art.png"] {
     width: 50px;
     margin-top: 70px;
+    margin-right: 25px;
 }
 img[src="http://www.bseu.by/isgo/Insta.png"] {
     width: 50px;
     margin-top: 70px;
+    margin-right: 25px;
 }
 img[src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"] {
     width: 50px;
